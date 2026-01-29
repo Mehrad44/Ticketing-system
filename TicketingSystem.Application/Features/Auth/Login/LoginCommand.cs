@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using TicketingSystem.Application.Dtos.Autrh;
+using TicketingSystem.Application.Dtos.Auth;
 using TicketingSystem.Application.Interfaces.Repositories;
 using TicketingSystem.Application.Interfaces.Security;
 

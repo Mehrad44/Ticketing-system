@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketingSystem.Infrastruct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketingSystem.Api", "TicketingSystem.Api\TicketingSystem.Api.csproj", "{B561C985-D138-4CD9-A035-904C02A5BEA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketingSystem.Tests", "TicketingSystem.Tests\TicketingSystem.Tests.csproj", "{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{B561C985-D138-4CD9-A035-904C02A5BEA9}.Release|x64.Build.0 = Release|Any CPU
 		{B561C985-D138-4CD9-A035-904C02A5BEA9}.Release|x86.ActiveCfg = Release|Any CPU
 		{B561C985-D138-4CD9-A035-904C02A5BEA9}.Release|x86.Build.0 = Release|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Debug|x64.Build.0 = Debug|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Debug|x86.Build.0 = Debug|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Release|x64.ActiveCfg = Release|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Release|x64.Build.0 = Release|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Release|x86.ActiveCfg = Release|Any CPU
+		{A825E97A-95CB-4116-83B9-F81AE8D8ED0C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
